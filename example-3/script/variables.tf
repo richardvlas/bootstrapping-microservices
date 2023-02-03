@@ -7,3 +7,15 @@ variable app_name {
 variable location {
     default = "southeastasia"
 }
+
+variable admin_username {
+    default = "linux_admin"
+}
+
+variable client_id {
+
+}
+
+variable client_secret {
+
+}
