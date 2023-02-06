@@ -1,10 +1,10 @@
-# Example-3
+# Example-1
 
-This example uses Terraform to create a Kubernetes cluster in Azure.
+This example uses Terraform to create a Kubernetes cluster and deploys a **MongoDB database** to it.
 
 Run this example using:
 
 ```bash
-cd example-3/scripts
+cd example-1/scripts
 terraform apply
 ```
